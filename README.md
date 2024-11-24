@@ -1,4 +1,4 @@
-# Oii! Meu nome é Artur Santez <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+# Oii! Meu nome é Artur Santez <img src="gifs/heart.gif" alt="Heart" width="32" height="32">
 
 <div>
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
