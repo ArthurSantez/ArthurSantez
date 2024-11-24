@@ -16,7 +16,7 @@
 
 ---
 
-<div>
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="Logo HTML5" width="80"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="Logo CSS3" width="80"/>
 </div>  
