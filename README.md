@@ -6,10 +6,10 @@
 
 <br>
 
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20">  Hoje estou estudando para trabalhar com **front-end** 
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> Estudando **HTML5 e CSS3**
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20"> Tenho **18 anos** e sou novato no mundo da programação
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="20" height="20"> Qualquer **ajuda ou conselho** são bem-vindos!
+- <img src="gifs/Integration.gif" alt="Integration" width="20" height="20">  Hoje estou estudando para trabalhar com **front-end** 
+- <img src="gifs/Research.gif" alt="Research" width="20" height="20"> Estudando **HTML5 e CSS3**
+- <img src="gifs/Sun.gif" alt="Sun" width="20" height="20"> Tenho **18 anos** e sou novato no mundo da programação
+- <img src="gifs/chat.gif" alt="Chat" width="20" height="20"> Qualquer **ajuda ou conselho** são bem-vindos!
 
 <br><br> 
 
