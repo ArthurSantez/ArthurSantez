@@ -7,7 +7,7 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20">  Hoje estou estudando para trabalhar com **front-end** 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> Estudando **HTML5 e CSS3**
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20"> Tenho **18 anos** e sou novato no mundo da programação
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="20" height="20"> Qualquer **ajuda e conselho** são bem-vindos! 
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="20" height="20"> Qualquer **ajuda ou conselho** são bem-vindos! 
 
 <div>
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ArturSantez&show_icons=true&theme=omni&hide=prs,stars&locale=pt-br&count_private=true"/>
