@@ -6,10 +6,10 @@
 
 <br>
 
-- <img src="gifs/Integration.gif" alt="Integration" width="20" height="20">  Hoje estou estudando para trabalhar com **front-end** 
-- <img src="gifs/Research.gif" alt="Research" width="20" height="20"> Estudando **HTML5 e CSS3**
-- <img src="gifs/Sun.gif" alt="Sun" width="20" height="20"> Tenho **18 anos** e sou novato no mundo da programação
-- <img src="gifs/chat.gif" alt="Chat" width="20" height="20"> Qualquer **ajuda ou conselho** são bem-vindos!
+- <img src="gifs/Integration.gif" alt="Integration" width="30" height="30">  Hoje estou estudando para trabalhar com **front-end** 
+- <img src="gifs/Research.gif" alt="Research" width="30" height="30"> Estudando **HTML5 e CSS3**
+- <img src="gifs/Sun.gif" alt="Sun" width="30" height="30"> Tenho **18 anos** e sou novato no mundo da programação
+- <img src="gifs/chat.gif" alt="Chat" width="30" height="30"> Qualquer **ajuda ou conselho** são bem-vindos!
 
 <br><br> 
 
