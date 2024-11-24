@@ -7,8 +7,8 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20"> Tenho **18 anos** e sou novato no mundo da programação  
 
 <div>
-    <img height="10em" src="https://github-readme-stats.vercel.app/api?username=ArturSantez&show_icons=true&theme=omni&hide=prs,stars&locale=pt-br&count_private=true"/>
-    <img  height="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturSantez&theme=omni&locale=pt-br&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ArturSantez&show_icons=true&theme=omni&hide=prs,stars&locale=pt-br&count_private=true"/>
+    <img  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturSantez&theme=omni&locale=pt-br&count_private=true"/>
 </div>
 
 ---
