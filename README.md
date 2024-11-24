@@ -11,7 +11,7 @@
 - <img src="gifs/Sun.gif" alt="Sun" width="30" height="30"> Tenho **18 anos** e sou novato no mundo da programação
 - <img src="gifs/chat.gif" alt="Chat" width="30" height="30"> Qualquer **ajuda ou conselho** são bem-vindos!
 
-<br><br> 
+<br>
 
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArturSantez&show_icons=true&theme=omni&hide=prs,stars&locale=pt-br&count_private=true"/>
