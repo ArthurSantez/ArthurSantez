@@ -1,7 +1,7 @@
 # Oii! Meu nome é Artur Santez <img src="gifs/heart.gif" alt="Heart" width="32" height="32">
 
 <div>
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="220px" align="right">
+   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="240px" align="right">
 </div>
 
 <br>
