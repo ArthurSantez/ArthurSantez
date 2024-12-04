@@ -13,11 +13,6 @@
 
 <br>
 
-<div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArturSantez&show_icons=true&theme=omni&hide=prs,stars&locale=pt-br&include_all_comits="true"/>
-    <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturSantez&theme=omni&locale=pt-br&include_all_comits="true"/>
-</div>
-
 ---
 
 <div align="center">
